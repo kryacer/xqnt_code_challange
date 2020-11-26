@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\XQNT.Finance.Contracts\XQNT.Finance.Contracts.csproj" />
+    <ProjectReference Include="..\XQNT.Finance\XQNT.Finance.csproj" />
+  </ItemGroup>
+
+</Project>

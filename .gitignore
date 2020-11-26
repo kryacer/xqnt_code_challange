@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/XQNT.CodingChallenge/.vs/XQNT.CodingChallenge/v16
+/XQNT.CodingChallenge/Cli/bin/Debug/netcoreapp3.0
+/XQNT.CodingChallenge/Cli/obj/Debug/netcoreapp3.0
+/XQNT.CodingChallenge/Cli/obj
+/XQNT.CodingChallenge/XQNT.Finance/obj
+/XQNT.CodingChallenge/XQNT.Finance/bin/Debug/netstandard2.0
+/XQNT.CodingChallenge/XQNT.Finance.Contracts/obj
+/XQNT.CodingChallenge/XQNT.Finance.Contracts/bin/Debug/netstandard2.0
+/XQNT.CodingChallenge/XQNT.Finance.Tests/obj
+/XQNT.CodingChallenge/XQNT.Finance.Service/bin/Debug/netcoreapp3.0
+/XQNT.CodingChallenge/XQNT.Finance.Service/obj
+/XQNT.CodingChallenge/XQNT.Finance.Tests/bin/Debug/netcoreapp3.0
+/XQNT.CodingChallenge/XQNT.WordCounter/obj
+/XQNT.CodingChallenge/XQNT.WordCounter/bin/Debug/netcoreapp3.0
+/XQNT.CodingChallenge/.vs/XQNT.CodingChallenge/DesignTimeBuild

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cli", "Cli\Cli.csproj", "{A573C8D4-3F5F-48DD-862B-449DA084781A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XQNT.Finance", "XQNT.Finance\XQNT.Finance.csproj", "{F974536B-A1B9-4954-A29C-0A528950215F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XQNT.Finance.Contracts", "XQNT.Finance.Contracts\XQNT.Finance.Contracts.csproj", "{56A7AD2F-CE20-4A78-B70F-1C39C1474DE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XQNT.Finance.Tests", "XQNT.Finance.Tests\XQNT.Finance.Tests.csproj", "{1E536269-F053-4D1F-A83E-BC0631AF55EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XQNT.Finance.Service", "XQNT.Finance.Service\XQNT.Finance.Service.csproj", "{4B5B063A-2918-42B9-9179-666A3502D575}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XQNT.WordCounter", "XQNT.WordCounter\XQNT.WordCounter.csproj", "{F5B7D72F-6A34-4169-A71C-1EF34810352B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A573C8D4-3F5F-48DD-862B-449DA084781A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A573C8D4-3F5F-48DD-862B-449DA084781A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A573C8D4-3F5F-48DD-862B-449DA084781A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A573C8D4-3F5F-48DD-862B-449DA084781A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F974536B-A1B9-4954-A29C-0A528950215F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F974536B-A1B9-4954-A29C-0A528950215F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F974536B-A1B9-4954-A29C-0A528950215F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F974536B-A1B9-4954-A29C-0A528950215F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56A7AD2F-CE20-4A78-B70F-1C39C1474DE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A7AD2F-CE20-4A78-B70F-1C39C1474DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A7AD2F-CE20-4A78-B70F-1C39C1474DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A7AD2F-CE20-4A78-B70F-1C39C1474DE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E536269-F053-4D1F-A83E-BC0631AF55EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E536269-F053-4D1F-A83E-BC0631AF55EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E536269-F053-4D1F-A83E-BC0631AF55EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E536269-F053-4D1F-A83E-BC0631AF55EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B5B063A-2918-42B9-9179-666A3502D575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B5B063A-2918-42B9-9179-666A3502D575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B5B063A-2918-42B9-9179-666A3502D575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B5B063A-2918-42B9-9179-666A3502D575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5B7D72F-6A34-4169-A71C-1EF34810352B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B7D72F-6A34-4169-A71C-1EF34810352B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B7D72F-6A34-4169-A71C-1EF34810352B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B7D72F-6A34-4169-A71C-1EF34810352B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7B98DAD-F9CF-4473-B2AA-8E6D626DCD06}
+	EndGlobalSection
+EndGlobal
